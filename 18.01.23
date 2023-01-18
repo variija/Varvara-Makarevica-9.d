@@ -1,0 +1,28 @@
+#include <iostream>
+using namespace std;
+int main() {
+    /*int age;
+    cin >> age;
+    if (age >= 0 && age <= 100) { cout << "ok"; }
+    else cout << "wrong";
+    string name;
+    cin >> name;
+    if (name == "'varvara" || name == "Varvara") { cout << "ok"; }
+    else cout << "wrong";*/
+  /*  int catage, dogage;
+    cin >> catage >> dogage;
+    if (catage > 0 && catage < 20) { cout << "catage ok "; }
+    else cout << "can is too olg";
+    if (dogage > 0 && dogage < 20) { cout << "dogage ok"; }
+    else cout << "dog is too old";*/
+}
+
+int age = 15;
+string parole = "a1";
+string par;
+cout << "_____________" << endl;
+cin >> p1;
+if (p1 == parole) { cout << age; }
+else cout << "acces denied";
+
+{
