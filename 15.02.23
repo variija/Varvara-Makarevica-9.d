@@ -1,0 +1,43 @@
+//#include <iostream>
+//using namespace std;
+//int main() {
+//	int i = 0;
+//	do {
+//		i++;
+//
+//		cout << i * 3 << endl;
+//	} while (i != 125);
+//
+//}
+
+//#include <iostream>	
+//using namespace std;
+//int main() {
+//	int i = 0;
+//	do {
+//		i++;
+//		cout << i * i * i << endl;
+//	} while (i != 20);
+//}
+
+
+//#include <iostream>
+//using namespace std;
+//int main() {
+//	int i = 1;
+////	do {
+//		i++;
+//			cout << "1 / " << i << endl;
+//	} while (i != 1000);
+//	}
+
+#include <iostream >
+using namespace std;
+int main() {
+	cout <<                           "*" << endl;
+	cout <<                          "***" << endl;
+	cout <<                         "*****" << endl;
+	cout <<                        "******" << endl;
+	cout <<                       "********" << endl;
+	cout <<                      "**********" <<endl;
+	cout <<                        "*****" << endl;
